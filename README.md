@@ -16,7 +16,6 @@ Basic core bindings to JS/DOM/Node. Link hidden in the BuckleScript docs.
 - [BuckleScript Build config file (bsconfig.json) schema](http://bucklescript.github.io/bucklescript/docson/#build-schema.json)
 Config schema, link to which is hidden in the BuckleScript docs.
 
----
 
 ## Books
 
@@ -25,7 +24,6 @@ OCaml-specific. Use [reason-tools](https://github.com/reasonml/reason-tools) in 
 - [Real World OCaml](https://realworldocaml.org/)
 Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) as a stdlib replacement. [Real World OCaml 2 (Beta)](https://dev.realworldocaml.org/) is available and under active development.
 
----
 
 ## Examples
 
@@ -33,7 +31,6 @@ Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) a
 - [Example Reason + BuckleScript Bindings](https://gist.github.com/sgrove/707d55a3874045287c142732932597b9)
 - [A Simple Signup Form Written in ReasonML](https://gist.github.com/Zerim/6ff94ae1897d65bfbdae7279860bd43a)
 
----
 
 ## Tutorials/Walkthroughs
 
