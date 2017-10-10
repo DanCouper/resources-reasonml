@@ -34,9 +34,9 @@ Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) a
 
 ## Tutorials/Walkthroughs
 
-- [Getting started with BuckleScript](http://pcarleton.github.io/2017/01/02/bucklescript-1.html) and [Buckle Pixi - Using PixiJS with BuckleScript](http://pcarleton.github.io/2017/01/14/buckle-pixi.html)
+- [Getting started with BuckleScript](http://pcarleton.github.io/2017/01/02/bucklescript-1.html) and [Buckle Pixi - Using PixiJS with BuckleScript](http://pcarleton.github.io/2017/01/14/buckle-pixi.html). Former gives a brief rundown on installing and using BS, latter looks at binding to PixiJS and generating clean JS output.
 
-- [How to build #disruptive OCaml #microservices with BuckleScript](https://medium.com/dailyjs/how-to-build-disruptive-ocaml-microservices-with-bucklescript-8c2f774f67cd) and [Typesafe JavaScript Chaining with OCaml and BuckleScript](https://medium.com/dailyjs/typesafe-javascript-chaining-with-ocaml-and-bucklescript-ff489fe287c2)
+- [How to build #disruptive OCaml #microservices with BuckleScript](https://medium.com/dailyjs/how-to-build-disruptive-ocaml-microservices-with-bucklescript-8c2f774f67cd) and [Typesafe JavaScript Chaining with OCaml and BuckleScript](https://medium.com/dailyjs/typesafe-javascript-chaining-with-ocaml-and-bucklescript-ff489fe287c2). Again, looks at binding to existing JS libs. The former binds to the tiny [Micro](https://github.com/zeit/micro) library. The latter looks at binding to a more complex lib - in this case Express (with nice rundown of leveraging `send.pipe`).
 
 - [A First Reason React app for Javascript developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
 - [A Reason React Tutorial](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
