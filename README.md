@@ -27,6 +27,9 @@ Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) a
 
 ## Examples
 
+- [BuckleScript Cookbook](https://github.com/glennsl/bucklescript-cookbook)
+- [Type-safe Bindings from JS to Reason For Dummies](http://blog.klipse.tech/reason/2017/10/17/externals-js-ffi-reason.html)
+
 - [Notes on using Promises](https://gist.github.com/Lokeh/a8d1dc6aa2043efa62b23e559291053e)
 - [Example Reason + BuckleScript Bindings](https://gist.github.com/sgrove/707d55a3874045287c142732932597b9)
 - [A Simple Signup Form Written in ReasonML](https://gist.github.com/Zerim/6ff94ae1897d65bfbdae7279860bd43a)
@@ -42,3 +45,4 @@ Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) a
 - [A Reason React Tutorial](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
 - [A Simple HTTP Form Post with React and ReasonML](http://marcusr.wpengine.com/?p=15), [Simple JSON parsing with Reason and React](http://www.marcusr.com/?p=16) and [ReasonML, React and Routing](http://www.marcusr.com/?p=18)
 
+- [Scalable and Serverless Media Processing Using Bucklescript, OCaml and AWS Lambda API Gateway](https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33)
