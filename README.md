@@ -33,7 +33,7 @@ Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) a
 - [Notes on using Promises](https://gist.github.com/Lokeh/a8d1dc6aa2043efa62b23e559291053e)
 - [Example Reason + BuckleScript Bindings](https://gist.github.com/sgrove/707d55a3874045287c142732932597b9)
 - [A Simple Signup Form Written in ReasonML](https://gist.github.com/Zerim/6ff94ae1897d65bfbdae7279860bd43a)
-
+- [Phantom Types in ReasonML](https://gist.github.com/busypeoples/3a28d039272ec3eb33ca2fc6b32dafc7)
 
 ## Tutorials/Walkthroughs
 
