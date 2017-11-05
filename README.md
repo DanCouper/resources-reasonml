@@ -1,5 +1,10 @@
 # ReasonML Resources
 
+
+## Curated Lists
+
+- [Awesome ReasonML](). A little out of date - this repo is an attempt to collate current state with the intention of PR-ing useful stuff back to the ARL repo at some point...
+
 ## Reference
 
 - [Reason Docs](https://reasonml.github.io/)
@@ -15,6 +20,26 @@ Basic core bindings to JS/DOM/Node. Link hidden in the BuckleScript docs.
 
 - [BuckleScript Build config file (bsconfig.json) schema](http://bucklescript.github.io/bucklescript/docson/#build-schema.json)
 Config schema, link to which is hidden in the BuckleScript docs.
+
+### Internals
+
+- [Intro to ReasonML Compilation](https://github.com/chenglou/intro-to-reason-compilation) - possibly going out of date slightly atm?
+
+### OCaml
+
+#### Basics
+
+- [Beginners guide to OCaml beginners' guides](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html). Basically, "read Real World OCaml" is the main takeaway.
+- [Learn OCaml in Y Minutes](https://learnxinyminutes.com/docs/ocaml/)
+- [OCaml for the Skeptical](http://www2.lib.uchicago.edu/keith/ocaml-class/home.html). Old resources, but still a good path to learning the language.
+- [A Concise Introduction to Objective Caml](http://web.archive.org/web/20111205183829/http://www.csc.villanova.edu/~dmatusze/resources/ocaml/ocaml.html). [Archived] link from previous, nice walkthrough.
+- [Unreliable Guide to OCaml Modules](http://lambdafoo.com/blog/2015/05/15/unreliable-guide-to-ocaml-modules/)
+- [OCaml Coding Considerations](https://wiki.xen.org/wiki/OCaml_Coding_Considerations). Very short list, from the Xen project.
+- [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/).
+
+#### Examples
+
+- [OsciBlog Markdown Parser](https://github.com/MFP/OcsiBlog/blob/master/simple_markup.ml). Actual top-down parser (vs most MD parsers) written in OCaml. Extremely compact code, extremely fast.
 
 
 ## Books
