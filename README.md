@@ -3,7 +3,7 @@
 
 ## Curated Lists
 
-- [Awesome ReasonML](). A little out of date - this repo is an attempt to collate current state with the intention of PR-ing useful stuff back to the ARL repo at some point...
+- [Awesome ReasonML](https://github.com/vramana/awesome-reasonml). A little out of date - this repo is an attempt to collate current state with the intention of PR-ing useful stuff back to the ARL repo at some point...
 
 ## Reference
 
