@@ -68,6 +68,7 @@ Canonical guide. Uses Jane Street's [Core](https://github.com/janestreet/core) a
 
 - [A First Reason React app for Javascript developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
 - [A Reason React Tutorial](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
+- [Yet anohter Reason React Tutorial for Beginners](https://www.robinwieruch.de/reason-react-tutorial/)
 - [A Simple HTTP Form Post with React and ReasonML](http://marcusr.wpengine.com/?p=15), [Simple JSON parsing with Reason and React](http://www.marcusr.com/?p=16) and [ReasonML, React and Routing](http://www.marcusr.com/?p=18)
 
 - [Scalable and Serverless Media Processing Using Bucklescript, OCaml and AWS Lambda API Gateway](https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33)
